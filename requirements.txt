@@ -1,0 +1,6 @@
+scapy
+pydivert
+streamlit
+netaddr
+python-dateutil
+psutil
