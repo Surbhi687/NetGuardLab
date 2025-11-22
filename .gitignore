@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Logs
+logs/
+*.log
+
+# WinDivert driver binaries
+WinDivert*.sys
+WinDivert*.dll
+WinDivert*.lib
+
+# Streamlit cache
+.streamlit/
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.bak
+
+# System files
+Thumbs.db
+.DS_Store
